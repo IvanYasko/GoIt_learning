@@ -1,1 +1,1 @@
-print(3 + 4 >= 3 == True)
+print("Hellow world!")
